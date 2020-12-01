@@ -1,0 +1,8 @@
+{
+    "df_test": "E:\\Visual_Studio_Code_Files\\python\\competitionData\\Tmall\\data_format1\\test_format1.csv",
+    "df_train": "E:\\Visual_Studio_Code_Files\\python\\competitionData\\Tmall\\data_format1\\train_format1.csv",
+    "user_info": "E:\\Visual_Studio_Code_Files\\python\\competitionData\\Tmall\\data_format1\\user_info_format1.csv",
+    "user_log": "E:\\Visual_Studio_Code_Files\\python\\competitionData\\Tmall\\data_format1\\user_log_format1.csv"
+	
+	
+}
